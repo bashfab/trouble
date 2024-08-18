@@ -13,7 +13,7 @@ Let's retrace my steps...
 
 4) I verified 'signatures.asc' was made using the private key that corresponds with the provided public key, using `gpg2 --verify signatures.asc` which produced an output that included "Good signature from..." as expected.
 
-5) Now to verify the hash sum of the file I just downloaded, session-desktop-linux-x86_64-1.13.1.AppImage, I used `sha256sum session-desktop-linux-x86_64-$1.13.1.AppImage` which yielded:
+5) Now to verify the hash sum of the file I just downloaded, session-desktop-linux-x86_64-1.13.1.AppImage, I used `sha256sum session-desktop-linux-x86_64-1.13.1.AppImage` which yielded:
 
 cc2ffaf05ca1b97abfe8681afc2535e6e93462554908d3da17251b01af05b8a9
 
