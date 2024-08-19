@@ -1,13 +1,38 @@
-I wish Countermail would fix its non-existent support and if anyone out there using their service is experiencing something similar I hope you have solutions to share.
+I wish Countermail would fix its non-existent support and if anyone out there using their service is experiencing
+something similar I hope you have solutions to share.
 
-If you're not familiar with them, countermail.com offers e2e e-mail with true PGP implementation, meaning you actually control your private key if you want, and other atypical security enhancements. ("If it's not your key, it's not your crypto", as it were.)
+If you're not familiar with them, countermail.com offers e2e e-mail with true PGP implementation, meaning you actually
+control your private key if you want, and other atypical security enhancements. ("If it's not your key, it's not your
+crypto", as it were.)
   
-The service has been good for many years, however, over the last few years I've noticed customer support has sharply declined, as in, completely...
+The service has been good for many years, however, over the last few years I've noticed customer support has sharply
+declined, as in, completely...
 
-It got to where I submitted several tickets and never heard back on them.  When I complained they weren't being responded to I got a response back saying my complaining would only push my priority down the list.  I waited many, many months and still not a single response to any of my tickets.  I complained again citing unreasonable delays, and heard nothing back.  There was no acknowledgement whatsoever of my lack of support or care about how it affected me, and no accomodations or discounts given.  Incredibly non-customer oriented and bad manners.  When I run a business I always make sure the customer knows they're in good hands and that something is being done or they will at least be given answers and kept in touch with.  Not with this place- they tried to guilt me like I was bad for asking too much of them, as if I didn't deserve the support I paid for.  Well, I'm sorry, my guilt receptacle is busted- they can keep that for themselves.
+It got to where I submitted several tickets and never heard back on them.  When I complained they weren't being
+responded to I got a response back saying my complaining would only push my priority down the list.  I waited many,
+many months and still not a single response to any of my tickets.  I complained again citing unreasonable delays, and
+heard nothing back.
+
+There was no acknowledgement whatsoever of my lack of support or care about how it affected me, and no accomodations
+or discounts given.  Incredibly non-customer oriented and bad manners.  When I run a business I always make sure the
+customer knows they're in good hands and that something is being done or they will at least be given answers and kept
+in touch with.  Not with this place- they tried to guilt me like I was bad for asking too much of them, as if I didn't
+deserve the support I paid for.  Well, I'm sorry, my guilt receptacle is busted- they can keep that for themselves.
   
-My tickets are things like... One time they failed to renew their domain by the deadline... It seems the process of verifying and keeping SSL certs for IMAP access is not very security-friendly- they don't announce when the cert changes and when it does you either have to blindly update it or wait until verifying it, which requires filing a ticket that they never respond to... Webmail will render HTML even set not to... There is no onion address for the webmail... Sometimes webmail fails to load.
+My tickets are things like... One time they failed to renew their domain by the deadline... It seems the process of
+verifying and keeping SSL certs for IMAP access is not very security-friendly- they don't announce when the cert
+changes and when it does you either have to blindly update it or wait until verifying it, which requires filing a
+ticket that they never respond to... Webmail will render HTML even set not to... There is no onion address for the
+webmail... Sometimes webmail fails to load.
 
-So it's like support just halted; it's been over a year like this and finding this extremely unfair as a paying customer, I'm looking elsewhere for solutions but they seem to be the only game in town so far.  They said they have a cap on their userbase of about 20,000, and my understanding is they are a small team, but this isn't a justification for ignoring tickets.  They need to hire more people; even with a relatively small customer base, that has got to yield in excess of $1M in annual revenue.  I also asked them about the future of the company and if they would be able to eventually get sufficient support- and got absolutely no answer back.
+So it's like support just halted; it's been over a year like this and finding this extremely unfair as a paying
+customer, I'm looking elsewhere for solutions but they seem to be the only game in town so far.  They said they have
+a cap on their userbase of about 20,000, and my understanding is they are a small team, but this isn't a
+justification for ignoring tickets.  They need to hire more people; even with a relatively small customer base, that
+has got to yield in excess of $1M in annual revenue.  I also asked them about the future of the company and if they
+would be able to eventually get sufficient support- and got absolutely no answer back.
 
-So... Bloody blood blood! And what a bummer because the idea of what they advertise is novel.  Grateful for any comments and solutions.  I'm not trying to completely bash the company but Jesus, this is fucking ridiculous and unacceptable.
+So... Bloody blood blood! And what a bummer because the idea of what they advertise is so novel.  Grateful for any
+comments and solutions.  I'm not trying to completely bash the company but Jesus, this is fucking ridiculous and
+unacceptable.  They should at least have the decency to explain the failure and ongoing efforts to resolve them, if
+not also offer discounts.  They seem to have the attitude of monopolists.
